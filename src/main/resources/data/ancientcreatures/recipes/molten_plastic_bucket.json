@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "ancientcreatures:oil_resin_bucket"
+  },
+  "result": "ancientcreatures:molten_plastic_bucket",
+  "experience": 2.5,
+  "cookingtime": 1000
+}

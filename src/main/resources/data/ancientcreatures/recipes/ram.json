@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "@@@",
+    "%#@",
+    "@@@"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:green_wool"
+    },
+    "@": {
+      "item": "ancientcreatures:copper_wire"
+    },
+    "%": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "ancientcreatures:ram"
+  }
+}

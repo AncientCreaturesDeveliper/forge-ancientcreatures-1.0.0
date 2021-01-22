@@ -1,0 +1,42 @@
+{
+	//Items
+	"item.ancientcreatures.plaster_and_bandages": "Plaster and Bandages",
+
+	"item.ancientcreatures.copper_ingot": "Copper Ingot",
+	"item.ancientcreatures.copper_nugget": "Copper Nugget",
+
+	"item.ancientcreatures.copper_wire": "Copper Wire",
+		
+	"item.ancientcreatures.crystalised_oil_shard": "Crystalised Oil Shard",
+	"item.ancientcreatures.melted_oil_bucket": "Melted Oil Bucket",
+	"item.ancientcreatures.oil_resin_bucket": "Oil Resin Bucket",
+	"item.ancientcreatures.molten_plastic_bucket": "Molten Plastic Bucket",
+
+	"item.ancientcreatures.floppy_disc": "Floppy Disc",
+	"item.ancientcreatures.compact_disc": "Compact Disc",
+
+	"item.ancientcreatures.computer_screen": "Computer Screen",
+	"item.ancientcreatures.computer_fan": "Computer Fan",
+	"item.ancientcreatures.computer_frame": "Computer Frame",
+	"item.ancientcreatures.computer_storage_port": "Computer Storage Port",
+	"item.ancientcreatures.cpu": "CPU",
+	"item.ancientcreatures.motherboard": "Motherboard",
+	"item.ancientcreatures.ram": "RAM",
+
+	"item.ancientcreatures.plastic_egg_mould": "Plastic Egg Mould",
+	
+	"item.ancientcreatures.broken_crystal_scarab_gem": "Broken Crystal Scarab Gem",
+	"item.ancientcreatures.crystal_scarab_gem": "Crystal Scarab Gem",
+	
+	"item.ancientcreatures.crystal_scarab_sword": "Crystal Scarab Sword",
+	"item.ancientcreatures.crystal_scarab_shovel": "Crystal Scarab Shovel",
+	"item.ancientcreatures.crystal_scarab_pickaxe": "Crystal Scarab Pickaxe",
+	"item.ancientcreatures.crystal_scarab_axe": "Crystal Scarab Axe",
+	"item.ancientcreatures.crystal_scarab_hoe": "Crystal Scarab Hoe",
+	
+	//Block
+	"block.ancientcreatures.copper_ore": "Copper Ore",
+	
+	//Creative Tab
+	"itemGroup.ancientcreatures": "AC Tab"
+}

@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons"
+
+[[mods]]
+modId="ancientcreatures"
+version="1.0.0"
+displayName="Ancient Creatures"
+logoFile="ac.png"
+authors="Willatendo"
+description='''
+A 1.16.5 Minecraft Mod that adds new paleontological and archaeological things to the game.
+'''
+
+[[dependencies.ancientcreatures]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)" 
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ancientcreatures]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

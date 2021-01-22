@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "ancientcreatures:crystalised_oil_shard"
+    }
+  ],
+  "result": {
+    "item": "ancientcreatures:melted_oil_bucket"
+  }
+}

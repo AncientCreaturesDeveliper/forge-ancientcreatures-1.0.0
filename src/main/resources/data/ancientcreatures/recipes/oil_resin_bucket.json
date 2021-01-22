@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "ancientcreatures:melted_oil_bucket"
+  },
+  "result": "ancientcreatures:oil_resin_bucket",
+  "experience": 1.5,
+  "cookingtime": 750
+}
