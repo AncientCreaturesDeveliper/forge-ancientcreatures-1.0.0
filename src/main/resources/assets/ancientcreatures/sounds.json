@@ -1,0 +1,12 @@
+{
+	"disc.jurassic_park_theme": {
+		"category": "disc",
+		"subtitle": "jurassic_park_theme",
+		"sounds": [
+			{
+				"name": "ancientcreatures:discs/jurassic_park_theme",
+				"stream": true
+			}
+		]
+	}
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template_fence_gate_open",
+    "textures": {
+        "texture": "ancientcreatures:blocks/jurassic_park_era_wood"
+    }
+}

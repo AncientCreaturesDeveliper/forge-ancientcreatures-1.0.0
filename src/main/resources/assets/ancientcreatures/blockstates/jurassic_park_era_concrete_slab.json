@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ancientcreatures:block/jurassic_park_era_concrete_slab"
+    },
+    "type=double": {
+      "model": "ancientcreatures:block/jurassic_park_era_concrete"
+    },
+    "type=top": {
+      "model": "ancientcreatures:block/jurassic_park_era_concrete_slab_top"
+    }
+  }
+}

@@ -3,7 +3,9 @@ package willatendo.ancientcreatures.core.init;
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.HoeItem;
 import net.minecraft.item.Item;
+import net.minecraft.item.MusicDiscItem;
 import net.minecraft.item.PickaxeItem;
+import net.minecraft.item.Rarity;
 import net.minecraft.item.ShovelItem;
 import net.minecraft.item.SwordItem;
 import net.minecraftforge.fml.RegistryObject;
@@ -13,6 +15,7 @@ import willatendo.ancientcreatures.core.tab.CreativeTab;
 import willatendo.ancientcreatures.core.util.enums.ModItemTeirs;
 import willatendo.ancientcreatures.core.util.registry.ModRegistry;
 
+@SuppressWarnings("deprecation")
 public class ItemInit 
 {
 	public static final RegistryObject<Item> PLASTER_AND_BANDAGES = ModRegistry.ITEM_TYPES.register("plaster_and_bandages", () -> new Item(new Item.Properties().group(CreativeTab.ANCIENT_TAB)));
@@ -40,14 +43,16 @@ public class ItemInit
 
 	public static final RegistryObject<Item> PLASTIC_EGG_MOULD = ModRegistry.ITEM_TYPES.register("plastic_egg_mould", () -> new Item(new Item.Properties().group(CreativeTab.ANCIENT_TAB)));
 	
-	public static final RegistryObject<Item> BROKEN_CRYSTAL_SCARAB_GEM = ModRegistry.ITEM_TYPES.register("broken_crystal_scarab_gem", () -> new Item(new Item.Properties().group(CreativeTab.ANCIENT_TAB)));
-	public static final RegistryObject<Item> CRYSTAL_SCARAB_GEM = ModRegistry.ITEM_TYPES.register("crystal_scarab_gem", () -> new Item(new Item.Properties().group(CreativeTab.ANCIENT_TAB)));
+	public static final RegistryObject<Item> BROKEN_CRYSTAL_SCARAB_GEM = ModRegistry.ITEM_TYPES.register("broken_crystal_scarab_gem", () -> new Item(new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.UNCOMMON)));
+	public static final RegistryObject<Item> CRYSTAL_SCARAB_GEM = ModRegistry.ITEM_TYPES.register("crystal_scarab_gem", () -> new Item(new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.RARE)));
 		
-	public static final RegistryObject<SwordItem> CRYSTAL_SCARAB_SWORD = ModRegistry.ITEM_TYPES.register("crystal_scarab_sword", () -> new SwordItem(ModItemTeirs.SCARAB, 30, -3.0F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB)))); 
-	public static final RegistryObject<ShovelItem> CRYSTAL_SCARAB_SHOVEL = ModRegistry.ITEM_TYPES.register("crystal_scarab_shovel", () ->  new ShovelItem(ModItemTeirs.SCARAB, 10.0F, -3.0F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB))));
-	public static final RegistryObject<PickaxeItem> CRYSTAL_SCARAB_PICKAXE = ModRegistry.ITEM_TYPES.register("crystal_scarab_pickaxe", () ->  new PickaxeItem(ModItemTeirs.SCARAB, 15, -2.8F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB))));
-	public static final RegistryObject<AxeItem> CRYSTAL_SCARAB_AXE = ModRegistry.ITEM_TYPES.register("crystal_scarab_axe", () ->  new AxeItem(ModItemTeirs.SCARAB, 60.0F, -3.2F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB))));
-	public static final RegistryObject<HoeItem> CRYSTAL_SCARAB_HOE = ModRegistry.ITEM_TYPES.register("crystal_scarab_hoe", () ->  new HoeItem(ModItemTeirs.SCARAB, 5, -3.0F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB))));
+	public static final RegistryObject<SwordItem> CRYSTAL_SCARAB_SWORD = ModRegistry.ITEM_TYPES.register("crystal_scarab_sword", () -> new SwordItem(ModItemTeirs.SCARAB, 30, -3.0F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.EPIC)))); 
+	public static final RegistryObject<ShovelItem> CRYSTAL_SCARAB_SHOVEL = ModRegistry.ITEM_TYPES.register("crystal_scarab_shovel", () ->  new ShovelItem(ModItemTeirs.SCARAB, 10.0F, -3.0F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.EPIC))));
+	public static final RegistryObject<PickaxeItem> CRYSTAL_SCARAB_PICKAXE = ModRegistry.ITEM_TYPES.register("crystal_scarab_pickaxe", () ->  new PickaxeItem(ModItemTeirs.SCARAB, 15, -2.8F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.EPIC))));
+	public static final RegistryObject<AxeItem> CRYSTAL_SCARAB_AXE = ModRegistry.ITEM_TYPES.register("crystal_scarab_axe", () ->  new AxeItem(ModItemTeirs.SCARAB, 60.0F, -3.2F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.EPIC))));
+	public static final RegistryObject<HoeItem> CRYSTAL_SCARAB_HOE = ModRegistry.ITEM_TYPES.register("crystal_scarab_hoe", () ->  new HoeItem(ModItemTeirs.SCARAB, 5, -3.0F, (new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.EPIC))));
+	
+	public static final RegistryObject<MusicDiscItem> MUSIC_DISC_JURASSIC_PARK_THEME = ModRegistry.ITEM_TYPES.register("music_disc_jurassic_park_theme", () -> new MusicDiscItem(15, SoundInit.LAZY_JURASSIC_PARK_DISC.get(), new Item.Properties().group(CreativeTab.ANCIENT_TAB).rarity(Rarity.RARE)));
 	
 	//Registry
 	public static void registerItems() { } 

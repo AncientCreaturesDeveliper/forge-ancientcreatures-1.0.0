@@ -55,6 +55,7 @@ public class CreativeTab
 			items.add(ItemInit.MELTED_OIL_BUCKET.get().getDefaultInstance());
 			items.add(ItemInit.MOLTEN_PLASTIC_BUCKET.get().getDefaultInstance());
 			items.add(ItemInit.MOTHERBOARD.get().getDefaultInstance());
+			items.add(ItemInit.MUSIC_DISC_JURASSIC_PARK_THEME.get().getDefaultInstance());
 			items.add(ItemInit.OIL_RESIN_BUCKET.get().getDefaultInstance());
 			items.add(ItemInit.PLASTER_AND_BANDAGES.get().getDefaultInstance());			
 			items.add(ItemInit.PLASTIC_EGG_MOULD.get().getDefaultInstance());			
@@ -62,6 +63,20 @@ public class CreativeTab
 			
 			//Blocks
 			items.add(BlockItemInit.COPPER_ORE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_BUTTON.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_PRESSURE_PLATE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_SLAB.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_STAIRS.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_WALL.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_FOSSIL_PANEL.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_BUTTON.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_FENCE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_FENCE_GATE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_PRESSURE_PLATE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_SLAB.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_STAIRS.get().getDefaultInstance());
 			
 			//Eggs
 		}

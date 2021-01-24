@@ -21,6 +21,7 @@
 	Melted Oil Bucket -> 1.0.0
 	Molten Plastic Bucket -> 1.0.0
 	Motherboard -> 1.0.0
+	Music Disc (Jurassic Park Theme) -> 1.0.0
 	Oil Resin Bucket -> 1.0.0
 	Plaster and Bandages -> 1.0.0
 	Plastic Egg Mould -> 1.0.0

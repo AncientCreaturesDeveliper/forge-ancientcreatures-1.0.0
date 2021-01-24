@@ -34,8 +34,35 @@
 	"item.ancientcreatures.crystal_scarab_axe": "Crystal Scarab Axe",
 	"item.ancientcreatures.crystal_scarab_hoe": "Crystal Scarab Hoe",
 	
+	"item.ancientcreatures.music_disc_jurassic_park_theme": "Music Disc",
+	"item.ancientcreatures.music_disc_jurassic_park_theme.desc": "Jurassic Park - John Williams",
+	
+	//Tooltips
+	"toolTip.ancientcreatures.floppy_disc.holding_shift": "DNA: 0% - DNA Type: Null - Max Capacity: 50%",
+	"toolTip.ancientcreatures.floppy_disc.not_holding_shift": "Hold Shift For More Information",
+	
+	"toolTip.ancientcreatures.compact_disc.holding_shift": "DNA: 0% - DNA Type: Null - Max Capacity: 100%",
+	"toolTip.ancientcreatures.compact_disc.not_holding_shift": "Hold Shift For More Information",
+	
 	//Block
 	"block.ancientcreatures.copper_ore": "Copper Ore",
+
+	"block.ancientcreatures.jurassic_park_era_concrete": "1993 Concrete",
+	"block.ancientcreatures.jurassic_park_era_concrete_slab": "1993 Concrete Slab",
+	"block.ancientcreatures.jurassic_park_era_concrete_stairs": "1993 Concrete Stairs",
+	"block.ancientcreatures.jurassic_park_era_concrete_wall": "1993 Concrete Wall",
+	"block.ancientcreatures.jurassic_park_era_concrete_button": "1993 Concrete Button",
+	"block.ancientcreatures.jurassic_park_era_concrete_pressure_plate": "1993 Concrete Pressure Plate",
+	
+	"block.ancientcreatures.jurassic_park_era_fossil_panel": "1993 Fossil Panel",
+	
+	"block.ancientcreatures.jurassic_park_era_wood": "1993 Wood",
+	"block.ancientcreatures.jurassic_park_era_wood_slab": "1993 Wood Slab",
+	"block.ancientcreatures.jurassic_park_era_wood_stairs": "1993 Wood Stairs",
+	"block.ancientcreatures.jurassic_park_era_wood_fence": "1993 Wood Fence",
+	"block.ancientcreatures.jurassic_park_era_wood_fence_gate": "1993 Wood Fence Gate",
+	"block.ancientcreatures.jurassic_park_era_wood_button": "1993 Wood Button",
+	"block.ancientcreatures.jurassic_park_era_wood_pressure_plate": "1993 Wood Pressure Plate",
 	
 	//Creative Tab
 	"itemGroup.ancientcreatures": "AC Tab"

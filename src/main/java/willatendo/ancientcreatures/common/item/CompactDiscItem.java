@@ -10,10 +10,11 @@ import net.minecraft.client.util.InputMappings;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.text.ITextComponent;
-import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraft.world.World;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
+import willatendo.ancientcreatures.core.util.reference.Reference;
 
 public class CompactDiscItem extends Item
 {
@@ -29,11 +30,11 @@ public class CompactDiscItem extends Item
 		super.addInformation(stack, worldIn, tooltip, flagIn);
 		if(InputMappings.isKeyDown(Minecraft.getInstance().getMainWindow().getHandle(), GLFW.GLFW_KEY_LEFT_SHIFT))
 		{
-			tooltip.add(new StringTextComponent("DNA: 0% - DNA Type: Null - Max Capacity: 100%"));
+			tooltip.add(new TranslationTextComponent("toolTip." + Reference.ID + ".compact_disc.holding_shift"));
 		}
 		else
 		{
-			tooltip.add(new StringTextComponent("Hold Shift For More Information"));
+			tooltip.add(new TranslationTextComponent("toolTip." + Reference.ID + ".compact_disc.not_holding_shift"));
 		}
 	}
 }
