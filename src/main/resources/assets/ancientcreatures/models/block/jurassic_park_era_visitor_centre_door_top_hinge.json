@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/door_top_rh",
+    "textures": {
+        "top": "ancientcreatures:blocks/jurassic_park_era_visitor_centre_door_top",
+        "bottom": "ancientcreatures:blocks/jurassic_park_era_visitor_centre_door_top"
+    }
+}

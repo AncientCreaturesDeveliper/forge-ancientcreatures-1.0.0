@@ -53,9 +53,7 @@
 	"block.ancientcreatures.jurassic_park_era_concrete_wall": "1993 Concrete Wall",
 	"block.ancientcreatures.jurassic_park_era_concrete_button": "1993 Concrete Button",
 	"block.ancientcreatures.jurassic_park_era_concrete_pressure_plate": "1993 Concrete Pressure Plate",
-	
-	"block.ancientcreatures.jurassic_park_era_fossil_panel": "1993 Fossil Panel",
-	
+		
 	"block.ancientcreatures.jurassic_park_era_wood": "1993 Wood",
 	"block.ancientcreatures.jurassic_park_era_wood_slab": "1993 Wood Slab",
 	"block.ancientcreatures.jurassic_park_era_wood_stairs": "1993 Wood Stairs",
@@ -63,7 +61,30 @@
 	"block.ancientcreatures.jurassic_park_era_wood_fence_gate": "1993 Wood Fence Gate",
 	"block.ancientcreatures.jurassic_park_era_wood_button": "1993 Wood Button",
 	"block.ancientcreatures.jurassic_park_era_wood_pressure_plate": "1993 Wood Pressure Plate",
+
+	"block.ancientcreatures.jurassic_park_era_flat_pavement": "1993 Flat Pavement",
+	"block.ancientcreatures.jurassic_park_era_raised_pavement": "1993 Raised Pavement",
+	"block.ancientcreatures.jurassic_park_era_steep_raised_pavement": "1993 Steep Raised Pavement",
 	
+	"block.ancientcreatures.jurassic_park_era_flat_road": "1993 Flat Road",
+	"block.ancientcreatures.jurassic_park_era_raised_road": "1993 Raised Road",
+
+	"block.ancientcreatures.jurassic_park_era_fence": "1993 Fence",
+	
+	"block.ancientcreatures.jurassic_park_era_clear_glass": "1993 Clear Glass",
+	"block.ancientcreatures.jurassic_park_era_clear_glass_pane": "1993 Clear Glass Pane",
+	
+	"block.ancientcreatures.jurassic_park_era_tinted_glass": "1993 Tinted Glass",
+	"block.ancientcreatures.jurassic_park_era_tinted_glass_pane": "1993 Tinted Glass Pane",
+	
+	"block.ancientcreatures.jurassic_park_era_toilet_door": "1993 Toilet Door",
+	"block.ancientcreatures.jurassic_park_era_visitor_centre_door": "1993 Visitor Centre Door",
+	"block.ancientcreatures.jurassic_park_era_security_door": "1993 Security Door",
+	
+	"block.ancientcreatures.jurassic_park_era_metal_scaffolding": "1993 Metal Scaffolding",
+
+	"block.ancientcreatures.jurassic_park_era_thatch_bundle": "1993 Thatch Bundle",
+
 	//Creative Tab
 	"itemGroup.ancientcreatures": "AC Tab"
 }

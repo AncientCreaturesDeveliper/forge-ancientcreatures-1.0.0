@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ancientcreatures:blocks/jurassic_park_era_tinted_glass"
+	}
+}

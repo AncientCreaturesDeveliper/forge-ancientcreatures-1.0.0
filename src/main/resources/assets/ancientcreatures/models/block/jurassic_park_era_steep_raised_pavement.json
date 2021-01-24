@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "ancientcreatures:blocks/jurassic_park_era_pavement",
+        "top": "ancientcreatures:blocks/jurassic_park_era_pavement",
+        "side": "ancientcreatures:blocks/jurassic_park_era_pavement"
+    }
+}

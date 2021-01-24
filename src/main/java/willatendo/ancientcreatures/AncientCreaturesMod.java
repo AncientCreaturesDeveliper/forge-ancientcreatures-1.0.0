@@ -19,7 +19,6 @@ public class AncientCreaturesMod
 
     public AncientCreaturesMod() 
     {
-    	
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
 
         ModRegistry.register();

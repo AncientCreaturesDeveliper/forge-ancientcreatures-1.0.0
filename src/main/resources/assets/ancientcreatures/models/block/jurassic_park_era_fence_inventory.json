@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/fence_inventory",
+	"textures": {
+        "texture": "ancientcreatures:blocks/jurassic_park_era_fence"
+    }
+}

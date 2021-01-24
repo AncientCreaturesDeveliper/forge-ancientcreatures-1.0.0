@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "ancientcreatures:blocks/jurassic_park_era_road"
+    }
+}

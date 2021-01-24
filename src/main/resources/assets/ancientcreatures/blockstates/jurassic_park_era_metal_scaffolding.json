@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "bottom=false": {
+      "model": "ancientcreatures:block/jurassic_park_era_metal_scaffolding_stable"
+    },
+    "bottom=true": {
+      "model": "ancientcreatures:block/jurassic_park_era_metal_scaffolding_unstable"
+    }
+  }
+}

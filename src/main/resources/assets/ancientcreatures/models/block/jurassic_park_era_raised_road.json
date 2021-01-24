@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures": {
+        "bottom": "ancientcreatures:blocks/jurassic_park_era_road",
+        "top": "ancientcreatures:blocks/jurassic_park_era_road",
+        "side": "ancientcreatures:blocks/jurassic_park_era_road"
+    }
+}

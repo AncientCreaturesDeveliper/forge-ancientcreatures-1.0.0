@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ancientcreatures:items/jurassic_park_era_toilet_door"
+	}
+}

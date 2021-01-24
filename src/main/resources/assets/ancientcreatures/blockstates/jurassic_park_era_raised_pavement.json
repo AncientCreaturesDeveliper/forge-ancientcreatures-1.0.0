@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ancientcreatures:block/jurassic_park_era_raised_pavement"
+    },
+    "type=double": {
+      "model": "ancientcreatures:block/jurassic_park_era_pavement"
+    },
+    "type=top": {
+      "model": "ancientcreatures:block/jurassic_park_era_raised_pavement_top"
+    }
+  }
+}

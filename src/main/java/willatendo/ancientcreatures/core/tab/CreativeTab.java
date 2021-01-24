@@ -63,13 +63,27 @@ public class CreativeTab
 			
 			//Blocks
 			items.add(BlockItemInit.COPPER_ORE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CLEAR_GLASS.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_CLEAR_GLASS_PANE.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_BUTTON.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_PRESSURE_PLATE.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_SLAB.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_STAIRS.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_CONCRETE_WALL.get().getDefaultInstance());
-			items.add(BlockItemInit.JURASSIC_PARK_ERA_FOSSIL_PANEL.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_FENCE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_FLAT_PAVEMENT.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_FLAT_ROAD.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_METAL_SCAFFOLDING.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_RAISED_PAVEMENT.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_RAISED_ROAD.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_SECURITY_DOOR.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_STEEP_RAISED_PAVEMENT.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_THATCH_BUNDLE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_TINTED_GLASS.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_TINTED_GLASS_PANE.get().getDefaultInstance());
+			items.add(BlockItemInit.JURASSIC_PARK_ERA_TOILET_DOOR.get().getDefaultInstance());
+			items.add(BlockItemInit.JRUASSIC_PARK_ERA_VISITOR_CENTRE_DOOR.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_BUTTON.get().getDefaultInstance());
 			items.add(BlockItemInit.JURASSIC_PARK_ERA_WOOD_FENCE.get().getDefaultInstance());
