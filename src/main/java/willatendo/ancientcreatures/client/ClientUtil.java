@@ -20,5 +20,9 @@ public class ClientUtil
 		
 		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_PARK_ERA_TINTED_GLASS.get(), RenderType.getTranslucent());
 		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_PARK_ERA_TINTED_GLASS_PANE.get(), RenderType.getTranslucent());
+		
+		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_PARK_ERA_SECURITY_DOOR.get(), RenderType.getTranslucent());
+		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_PARK_ERA_TOILET_DOOR.get(), RenderType.getTranslucent());
+		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_PARK_ERA_VISITOR_CENTRE_DOOR.get(), RenderType.getTranslucent());
 	}
 }

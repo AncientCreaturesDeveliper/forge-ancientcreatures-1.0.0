@@ -1,15 +1,15 @@
 {
 	"variants": {
 		"axis=x": {
-			"model": "ancientcreatures:block/juassic_park_era_thatch_bundle_horizontal",
+			"model": "ancientcreatures:block/jurassic_park_era_thatch_bundle_horizontal",
       	"x": 90,
       	"y": 90
 		},
 		"axis=y": {
-      		"model": "ancientcreatures:block/juassic_park_era_thatch_bundle"
+      		"model": "ancientcreatures:block/jurassic_park_era_thatch_bundle"
     	},
     	"axis=z": {
-      	"model": "ancientcreatures:block/juassic_park_era_thatch_bundle_horizontal",
+      	"model": "ancientcreatures:block/jurassic_park_era_thatch_bundle_horizontal",
       	"x": 90
     	}
   	}

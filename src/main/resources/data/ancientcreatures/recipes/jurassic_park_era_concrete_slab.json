@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ancientcreatures:jurassic_park_era_concrete"
+    }
+  },
+  "result": {
+    "item": "ancientcreatures:jurassic_park_era_concrete_slab",
+    "count": 6
+  }
+} 

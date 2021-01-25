@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ancientcreatures:jurassic_park_era_concrete"
+    }
+  ],
+  "result": {
+    "item": "ancientcreatures:jurassic_park_era_concrete_button"
+  }
+}
