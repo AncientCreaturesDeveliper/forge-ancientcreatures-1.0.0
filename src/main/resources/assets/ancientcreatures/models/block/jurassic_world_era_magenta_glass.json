@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "ancientcreatures:blocks/jurassic_world_era_magenta_glass"
+    }
+}

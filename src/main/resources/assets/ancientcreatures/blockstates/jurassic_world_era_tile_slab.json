@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ancientcreatures:block/jurassic_world_era_tile_slab"
+    },
+    "type=double": {
+      "model": "ancientcreatures:block/jurassic_world_era_tile"
+    },
+    "type=top": {
+      "model": "ancientcreatures:block/jurassic_world_era_tile_slab_top"
+    }
+  }
+}

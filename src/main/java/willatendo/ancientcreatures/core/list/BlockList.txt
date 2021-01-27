@@ -9,6 +9,13 @@
 	1993 Concrete Button -> 1.0.0
 	1993 Concrete Pressure Plate -> 1.0.0
 	
+	1993 Polished Concrete -> 1.0.0
+	1993 Polished Concrete Slab -> 1.0.0
+	1993 Polished Concrete Stairs -> 1.0.0
+	1993 Polished Concrete Wall -> 1.0.0
+	1993 Polished Concrete Button -> 1.0.0
+	1993 Polished Concrete Pressure Plate -> 1.0.0
+	
 	1993 Wood -> 1.0.0
 	1993 Wood Slab -> 1.0.0
 	1993 Wood Stairs -> 1.0.0
@@ -19,7 +26,7 @@
 	
 	1993 Flat Pavement -> 1.0.0
 	1993 Raised Pavement -> 1.0.0
-	1993 Steep Raised Pavement -? 1.0.0
+	1993 Steep Raised Pavement -> 1.0.0
 	
 	1993 Flat Road -> 1.0.0
 	1993 Raised Road -> 1.0.0
@@ -35,5 +42,107 @@
 	1993 Toilet Door -> 1.0.0	
 	1993 Visitor Centre Door -> 1.0.0	
 	
-	1993 Metal Scaffolding -> 1.0.0	
+	1993 Metal Scaffolding -> 1.0.0
+		
 	1993 Thatch Bundle -> 1.0.0
+	
+	2015 Concrete -> 1.0.0
+	2015 Concrete Slab -> 1.0.0
+	2015 Concrete Stairs -> 1.0.0
+	2015 Concrete Wall -> 1.0.0
+	2015 Concrete Button -> 1.0.0
+	2015 Concrete Pressure Plate -> 1.0.0
+	
+	2015 Polished Concrete -> 1.0.0
+	2015 Polished Concrete Slab -> 1.0.0
+	2015 Polished Concrete Stairs -> 1.0.0
+	2015 Polished Concrete Wall -> 1.0.0
+	2015 Polished Concrete Button -> 1.0.0
+	2015 Polished Concrete Pressure Plate -> 1.0.0
+	
+	2015 Wood -> 1.0.0
+	2015 Wood Slab -> 1.0.0
+	2015 Wood Stairs -> 1.0.0
+	2015 Wood Wall -> 1.0.0
+	2015 Wood Button -> 1.0.0
+	2015 Wood Pressure Plate -> 1.0.0
+	
+	2015 Flat Pavement -> 1.0.0
+	2015 Raised Pavement -> 1.0.0
+	2015 Steep Raised Pavement -> 1.0.0
+	
+	2015 Tile -> 1.0.0
+	2015 Tile Slab -> 1.0.0
+	2015 Tile Stairs -> 1.0.0
+	
+	2015 Clear Glass -> 1.0.0	
+	2015 Clear Glass Pane -> 1.0.0
+	
+	2015 Red Glass -> 1.0.0	
+	2015 Red Glass Pane -> 1.0.0
+	
+	2015 Orange Glass -> 1.0.0	
+	2015 Orange Glass Pane -> 1.0.0
+	
+	2015 Yellow Glass -> 1.0.0	
+	2015 Yellow Glass Pane -> 1.0.0
+	
+	2015 Lime Glass -> 1.0.0	
+	2015 Lime Glass Pane -> 1.0.0
+	
+	2015 Green Glass -> 1.0.0	
+	2015 Green Glass Pane -> 1.0.0
+	
+	2015 Cyan Glass -> 1.0.0	
+	2015 Cyan Glass Pane -> 1.0.0
+	
+	2015 Blue Glass -> 1.0.0	
+	2015 Blue Glass Pane -> 1.0.0
+	
+	2015 Light Blue Glass -> 1.0.0	
+	2015 Light Blue Glass Pane -> 1.0.0
+	
+	2015 Purple Glass -> 1.0.0	
+	2015 Purple Glass Pane -> 1.0.0
+	
+	2015 Magenta Glass -> 1.0.0	
+	2015 Magenta Glass Pane -> 1.0.0
+	
+	2015 Pink Glass -> 1.0.0	
+	2015 Pink Glass Pane -> 1.0.0
+	
+	2015 Brown Glass -> 1.0.0	
+	2015 Brown Glass Pane -> 1.0.0
+	
+	2015 Grey Glass -> 1.0.0	
+	2015 Grey Glass Pane -> 1.0.0
+	
+	2015 Light Grey Glass -> 1.0.0	
+	2015 Light Grey Pane -> 1.0.0
+	
+	2015 White Glass -> 1.0.0	
+	2015 White Glass Pane -> 1.0.0
+	
+	2015 Black Glass -> 1.0.0	
+	2015 Black Glass Pane -> 1.0.0
+	
+	2015 Innovation Centre Door -> 1.0.0
+	2015 Glass Door -> 1.0.0
+	2015 Back Door -> 1.0.0
+	
+	2015 Red Decoration Block -> 1.0.0
+	2015 Orange Decoration Block -> 1.0.0	
+	2015 Yellow Decoration Block -> 1.0.0		
+	2015 Lime Decoration Block -> 1.0.0		
+	2015 Green Decoration Block -> 1.0.0		
+	2015 Cyan Decoration Block -> 1.0.0		
+	2015 Blue Decoration Block -> 1.0.0		
+	2015 Light Blue Decoration Block -> 1.0.0		
+	2015 Purple Decoration Block -> 1.0.0		
+	2015 Magenta Decoration Block -> 1.0.0		
+	2015 Pink Decoration Block -> 1.0.0		
+	2015 Brown Decoration Block -> 1.0.0		
+	2015 Grey Decoration Block -> 1.0.0		
+	2015 Light Grey Decoration Block -> 1.0.0		
+	2015 White Decoration Block -> 1.0.0		
+	2015 Black Decoration Block -> 1.0.0	

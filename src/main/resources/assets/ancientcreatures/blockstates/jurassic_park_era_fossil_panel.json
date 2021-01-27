@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "ancientcreatures:block/jruassic_park_era_fossil_panel" },
+        "facing=south": { "model": "ancientcreatures:block/jruassic_park_era_fossil_panel", "y": 180 },
+        "facing=west":  { "model": "ancientcreatures:block/jruassic_park_era_fossil_panel", "y": 270 },
+        "facing=east":  { "model": "ancientcreatures:block/jruassic_park_era_fossil_panel", "y": 90 }
+    }
+}

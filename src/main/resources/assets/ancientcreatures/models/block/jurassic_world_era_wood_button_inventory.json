@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button_inventory",
+    "textures": {
+        "texture": "ancientcreatures:blocks/jurassic_world_era_wood"
+    }
+}

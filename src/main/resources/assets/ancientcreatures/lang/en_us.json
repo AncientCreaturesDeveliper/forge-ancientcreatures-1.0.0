@@ -53,6 +53,13 @@
 	"block.ancientcreatures.jurassic_park_era_concrete_wall": "1993 Concrete Wall",
 	"block.ancientcreatures.jurassic_park_era_concrete_button": "1993 Concrete Button",
 	"block.ancientcreatures.jurassic_park_era_concrete_pressure_plate": "1993 Concrete Pressure Plate",
+	
+	"block.ancientcreatures.jurassic_park_era_polished_concrete": "1993 Polished Concrete",
+	"block.ancientcreatures.jurassic_park_era_polished_concrete_slab": "1993 Polished Concrete Slab",
+	"block.ancientcreatures.jurassic_park_era_polished_concrete_stairs": "1993 Polished Concrete Stairs",
+	"block.ancientcreatures.jurassic_park_era_polished_concrete_wall": "1993 Polished Concrete Wall",
+	"block.ancientcreatures.jurassic_park_era_polished_concrete_button": "1993 Polished Concrete Button",
+	"block.ancientcreatures.jurassic_park_era_polished_concrete_pressure_plate": "1993 Polished Concrete Pressure Plate",
 		
 	"block.ancientcreatures.jurassic_park_era_wood": "1993 Wood",
 	"block.ancientcreatures.jurassic_park_era_wood_slab": "1993 Wood Slab",
@@ -84,7 +91,109 @@
 	"block.ancientcreatures.jurassic_park_era_metal_scaffolding": "1993 Metal Scaffolding",
 
 	"block.ancientcreatures.jurassic_park_era_thatch_bundle": "1993 Thatch Bundle",
+	
+	"block.ancientcreatures.jurassic_world_era_concrete": "2015 Concrete",
+	"block.ancientcreatures.jurassic_world_era_concrete_slab": "2015 Concrete Slab",
+	"block.ancientcreatures.jurassic_world_era_concrete_stairs": "2015 Concrete Stairs",
+	"block.ancientcreatures.jurassic_world_era_concrete_wall": "2015 Concrete Wall",
+	"block.ancientcreatures.jurassic_world_era_concrete_button": "2015 Concrete Button",
+	"block.ancientcreatures.jurassic_world_era_concrete_pressure_plate": "2015 Concrete Pressure Plate",
 
+	"block.ancientcreatures.jurassic_world_era_polished_concrete": "2015 Polished Concrete",
+	"block.ancientcreatures.jurassic_world_era_polished_concrete_slab": "2015 Polished Concrete Slab",
+	"block.ancientcreatures.jurassic_world_era_polished_concrete_stairs": "2015 Polished Concrete Stairs",
+	"block.ancientcreatures.jurassic_world_era_polished_concrete_wall": "2015 Polished Concrete Wall",
+	"block.ancientcreatures.jurassic_world_era_polished_concrete_button": "2015 Polished Concrete Button",
+	"block.ancientcreatures.jurassic_world_era_polished_concrete_pressure_plate": "2015 Polished Concrete Pressure Plate",
+
+	"block.ancientcreatures.jurassic_world_era_wood": "2015 Wood",
+	"block.ancientcreatures.jurassic_world_era_wood_slab": "2015 Wood Slab",
+	"block.ancientcreatures.jurassic_world_era_wood_stairs": "2015 Wood Stairs",
+	"block.ancientcreatures.jurassic_world_era_wood_fence": "2015 Wood Fence",
+	"block.ancientcreatures.jurassic_world_era_wood_fence_gate": "2015 Wood Fence Gate",
+	"block.ancientcreatures.jurassic_world_era_wood_button": "2015 Wood Button",
+	"block.ancientcreatures.jurassic_world_era_wood_pressure_plate": "2015 Wood Pressure Plate",
+
+	"block.ancientcreatures.jurassic_world_era_flat_pavement": "2015 Flat Pavement",
+	"block.ancientcreatures.jurassic_world_era_raised_pavement": "2015 Raised Pavement",
+	"block.ancientcreatures.jurassic_world_era_steep_raised_pavement": "2015 Steep Raised Pavement",
+	
+	"block.ancientcreatures.jurassic_world_era_tile": "2015 Tile",
+	"block.ancientcreatures.jurassic_world_era_tile_slab": "2015 Tile Slab",
+	"block.ancientcreatures.jurassic_world_era_tile_stairs": "2015 Tile Stairs",
+
+	"block.ancientcreatures.jurassic_world_era_clear_glass": "2015 Clear Glass",
+	"block.ancientcreatures.jurassic_world_era_clear_glass_pane": "2015 Clear Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_red_glass": "2015 Red Glass",
+	"block.ancientcreatures.jurassic_world_era_red_glass_pane": "2015 Red Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_orange_glass": "2015 Orange Glass",
+	"block.ancientcreatures.jurassic_world_era_orange_glass_pane": "2015 Orange Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_yellow_glass": "2015 Yellow Glass",
+	"block.ancientcreatures.jurassic_world_era_yellow_glass_pane": "2015 Yellow Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_lime_glass": "2015 Lime Glass",
+	"block.ancientcreatures.jurassic_world_era_lime_glass_pane": "2015 Lime Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_green_glass": "2015 Green Glass",
+	"block.ancientcreatures.jurassic_world_era_green_glass_pane": "2015 Green Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_cyan_glass": "2015 Cyan Glass",
+	"block.ancientcreatures.jurassic_world_era_cyan_glass_pane": "2015 Cyan Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_blue_glass": "2015 Blue Glass",
+	"block.ancientcreatures.jurassic_world_era_blue_glass_pane": "2015 Blue Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_light_blue_glass": "2015 Light Blue Glass",
+	"block.ancientcreatures.jurassic_world_era_light_blue_glass_pane": "2015 Light Blue Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_purple_glass": "2015 Purple Glass",
+	"block.ancientcreatures.jurassic_world_era_purple_glass_pane": "2015 Purple Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_magenta_glass": "2015 Magenta Glass",
+	"block.ancientcreatures.jurassic_world_era_magenta_glass_pane": "2015 Magenta Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_pink_glass": "2015 Pink Glass",
+	"block.ancientcreatures.jurassic_world_era_pink_glass_pane": "2015 Pink Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_brown_glass": "2015 Brown Glass",
+	"block.ancientcreatures.jurassic_world_era_brown_glass_pane": "2015 Brown Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_grey_glass": "2015 Grey Glass",
+	"block.ancientcreatures.jurassic_world_era_grey_glass_pane": "2015 Grey Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_light_grey_glass": "2015 Light Grey Glass",
+	"block.ancientcreatures.jurassic_world_era_light_grey_glass_pane": "2015 Light Grey Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_white_glass": "2015 White Glass",
+	"block.ancientcreatures.jurassic_world_era_white_glass_pane": "2015 White Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_black_glass": "2015 Black Glass",
+	"block.ancientcreatures.jurassic_world_era_black_glass_pane": "2015 Black Glass Pane",
+	
+	"block.ancientcreatures.jurassic_world_era_innovation_centre_door": "2015 Innovation Centre Door",
+	"block.ancientcreatures.jurassic_world_era_glass_door": "2015 Glass Door",
+	"block.ancientcreatures.jurassic_world_era_back_door": "2015 Back Door",	
+	
+	"block.ancientcreatures.jurassic_world_era_red_decoration_block": "2015 Red Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_orange_decoration_block": "2015 Orange Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_yellow_decoration_block": "2015 Yellow Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_lime_decoration_block": "2015 Lime Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_green_decoration_block": "2015 Green Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_cyan_decoration_block": "2015 Cyan Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_blue_decoration_block": "2015 Blue Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_light_blue_decoration_block": "2015 Light Blue Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_purple_decoration_block": "2015 Purple Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_magenta_decoration_block": "2015 Magenta Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_pink_decoration_block": "2015 Pink Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_brown_decoration_block": "2015 Brown Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_grey_decoration_block": "2015 Grey Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_light_grey_decoration_block": "2015 Light Grey Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_white_decoration_block": "2015 White Decoration Block",
+	"block.ancientcreatures.jurassic_world_era_black_decoration_block": "2015 Black Decoration Block",
+	
 	//Creative Tab
 	"itemGroup.ancientcreatures": "AC Tab"
 }

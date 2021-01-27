@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+        "wall": "ancientcreatures:blocks/jurassic_world_era_concrete"
+    }
+}

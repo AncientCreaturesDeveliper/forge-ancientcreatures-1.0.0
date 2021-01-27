@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/door_bottom_rh",
-    "textures": {
-        "top": "ancientcreatures:blocks/jurassic_park_era_toilet_door_top",
-        "bottom": "ancientcreatures:blocks/jurassic_park_era_toilet_door_bottom"
-    }
-}

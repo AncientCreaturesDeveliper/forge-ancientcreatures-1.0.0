@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "ancientcreatures:block/jurassic_park_era_polished_concrete_pressure_plate"
+    },
+    "powered=true": {
+      "model": "ancientcreatures:block/jurassic_park_era_polished_concrete_pressure_plate_down"
+    }
+  }
+}

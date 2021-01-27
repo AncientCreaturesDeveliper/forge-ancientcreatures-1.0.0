@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template_glass_pane_noside",
+    "textures": {
+        "pane": "ancientcreatures:blocks/jurassic_world_era_lime_glass"
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ancientcreatures:blocks/jurassic_world_era_light_blue_glass_pane"
+	}
+}

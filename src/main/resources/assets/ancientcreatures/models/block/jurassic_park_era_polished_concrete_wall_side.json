@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template_wall_side",
+    "textures": {
+        "wall": "ancientcreatures:blocks/jurassic_park_era_polished_concrete"
+    }
+}

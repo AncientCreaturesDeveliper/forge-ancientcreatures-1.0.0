@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/button_pressed",
+    "textures": {
+        "texture": "ancientcreatures:blocks/jurassic_park_era_polished_concrete"
+    }
+}

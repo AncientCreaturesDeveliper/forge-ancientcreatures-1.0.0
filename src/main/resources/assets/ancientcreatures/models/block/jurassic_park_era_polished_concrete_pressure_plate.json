@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/pressure_plate_up",
+    "textures": {
+        "texture": "ancientcreatures:blocks/jurassic_park_era_polished_concrete"
+    }
+}
