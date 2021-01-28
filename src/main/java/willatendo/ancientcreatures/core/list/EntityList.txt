@@ -1,0 +1,3 @@
+	Alphabetical Order of All Entities / Version Added:
+	
+	Nautilus -> 1.0.0

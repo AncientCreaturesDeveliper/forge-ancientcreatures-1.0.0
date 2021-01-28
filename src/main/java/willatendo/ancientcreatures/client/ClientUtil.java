@@ -4,9 +4,12 @@ import net.minecraft.client.renderer.RenderType;
 import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.client.registry.RenderingRegistry;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
+import willatendo.ancientcreatures.client.entity.render.NautilusRender;
 import willatendo.ancientcreatures.core.init.BlockInit;
+import willatendo.ancientcreatures.core.init.EntityInit;
 import willatendo.ancientcreatures.core.util.reference.Reference;
 
 @Mod.EventBusSubscriber(modid = Reference.ID, value = Dist.CLIENT, bus = Mod.EventBusSubscriber.Bus.MOD)
@@ -62,5 +65,7 @@ public class ClientUtil
 		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_WORLD_ERA_INNOVATION_CENTRE_DOOR.get(), RenderType.getTranslucent());
 		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_WORLD_ERA_GLASS_DOOR.get(), RenderType.getTranslucent());
 		RenderTypeLookup.setRenderLayer(BlockInit.JURASSIC_WORLD_ERA_BACK_DOOR.get(), RenderType.getTranslucent());
+		
+		RenderingRegistry.registerEntityRenderingHandler(EntityInit.NAUTILUS_ENTITY.get(), NautilusRender::new);
 	}
 }
