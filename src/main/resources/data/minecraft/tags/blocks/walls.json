@@ -2,6 +2,8 @@
 	"replace": false,
   	"values": [
 		"ancientcreatures:jurassic_park_era_concrete_wall",
-		"ancientcreatures:jurassic_world_era_concrete_wall"
+		"ancientcreatures:jurassic_park_era_polished_concrete_wall",
+		"ancientcreatures:jurassic_world_era_concrete_wall",
+		"ancientcreatures:jurassic_world_era_polished_concrete_wall"
   	]
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ancientcreatures:jurassic_world_era_purple_glass"
+    }
+  },
+  "result": {
+    "item": "ancientcreatures:jurassic_world_era_purple_glass_pane",
+    "count": 6
+  }
+}

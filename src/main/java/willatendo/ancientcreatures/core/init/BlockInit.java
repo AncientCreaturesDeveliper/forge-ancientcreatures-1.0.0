@@ -177,9 +177,9 @@ public class BlockInit
 	public static final RegistryObject<PaneBlock> JURASSIC_WORLD_ERA_BLACK_GLASS_PANE = ModRegistry.BLOCK_TYPES.register("jurassic_world_era_black_glass_pane", () -> new PaneBlock(AbstractBlock.Properties.from(Blocks.GLASS_PANE)));
 	
 	//Door
-	public static final RegistryObject<DoorBlock> JURASSIC_WORLD_ERA_INNOVATION_CENTRE_DOOR = ModRegistry.BLOCK_TYPES.register("jurassic_world_era_innovation_centre_door", () -> new DoorBlock(AbstractBlock.Properties.from(Blocks.IRON_DOOR)));
+	public static final RegistryObject<DoorBlock> JURASSIC_WORLD_ERA_INNOVATION_CENTRE_DOOR = ModRegistry.BLOCK_TYPES.register("jurassic_world_era_innovation_centre_door", () -> new DoorBlock(AbstractBlock.Properties.from(Blocks.ACACIA_DOOR)));
 	public static final RegistryObject<DoorBlock> JURASSIC_WORLD_ERA_GLASS_DOOR = ModRegistry.BLOCK_TYPES.register("jurassic_world_era_glass_door", () -> new DoorBlock(AbstractBlock.Properties.from(Blocks.ACACIA_DOOR)));	
-	public static final RegistryObject<DoorBlock> JURASSIC_WORLD_ERA_BACK_DOOR = ModRegistry.BLOCK_TYPES.register("jurassic_park_era_back_door", () -> new DoorBlock(AbstractBlock.Properties.from(Blocks.IRON_DOOR)));
+	public static final RegistryObject<DoorBlock> JURASSIC_WORLD_ERA_BACK_DOOR = ModRegistry.BLOCK_TYPES.register("jurassic_world_era_back_door", () -> new DoorBlock(AbstractBlock.Properties.from(Blocks.IRON_DOOR)));
 	
 	//Coloured Decoration Blocks
 	public static final RegistryObject<Block> JURASSIC_WORLD_ERA_RED_DECORATION_BLOCK = ModRegistry.BLOCK_TYPES.register("jurassic_world_era_red_decoration_block", () -> new Block(AbstractBlock.Properties.from(Blocks.GLASS)));

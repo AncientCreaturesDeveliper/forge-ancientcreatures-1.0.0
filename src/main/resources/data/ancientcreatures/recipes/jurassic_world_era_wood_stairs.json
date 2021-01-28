@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ancientcreatures:jurassic_world_era_wood"
+    }
+  },
+  "result": {
+    "item": "ancientcreatures:jurassic_world_era_wood_stairs",
+    "count": 4
+  }
+}

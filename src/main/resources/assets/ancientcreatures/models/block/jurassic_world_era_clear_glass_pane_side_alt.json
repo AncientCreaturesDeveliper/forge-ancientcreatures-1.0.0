@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/template_glass_pane_side_alt",
     "textures": {
-        "pane": "ancientcreatures:blocks/jurassic_world_era_clear_glass_pane",
-        "edge": "ancientcreatures:blocks/jurassic_world_era_clear_glass_pane"
+        "pane": "ancientcreatures:blocks/jurassic_world_era_clear_glass",
+        "edge": "ancientcreatures:blocks/jurassic_world_era_clear_glass"
     }
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ancientcreatures:blocks/jurassic_world_era_clear_glass_pane"
+		"layer0": "ancientcreatures:blocks/jurassic_world_era_clear_glass"
 	}
 }

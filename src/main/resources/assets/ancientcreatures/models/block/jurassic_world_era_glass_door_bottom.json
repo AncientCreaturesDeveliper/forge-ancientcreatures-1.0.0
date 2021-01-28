@@ -2,6 +2,6 @@
     "parent": "minecraft:block/door_bottom",
     "textures": {
         "top": "ancientcreatures:blocks/jurassic_world_era_glass_door_top",
-        "bottom": "ancientcreatures:blocks/urassic_world_era_glass_door_bottom"
+        "bottom": "ancientcreatures:blocks/jurassic_world_era_glass_door_bottom"
     }
 }

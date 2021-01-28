@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ancientcreatures:jurassic_world_era_tile"
+    }
+  },
+  "result": {
+    "item": "ancientcreatures:jurassic_world_era_tile_stairs",
+    "count": 4
+  }
+}

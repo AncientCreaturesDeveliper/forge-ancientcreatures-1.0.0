@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "@": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "ancientcreatures:jurassic_world_era_clear_glass",
+    "count": 8
+  }
+}
